@@ -16,6 +16,9 @@ ChronoTrack is a sleek and modern web application that combines stopwatch and di
 - **React**: A JavaScript library for building user interfaces.
 - **Tailwind CSS**: A utility-first CSS framework for styling.
 
+## Tick-tock
+https://chr0n0track.web.app/
+
 ## Getting Started
 
 ### Prerequisites
